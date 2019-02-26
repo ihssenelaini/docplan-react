@@ -1,0 +1,16 @@
+.healthcare{
+    margin-top: 10%;
+    margin-right: 10%;
+}
+.img-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.foot-contain{
+    margin-top: 5%;
+    text-align: center;
+    color: gray;
+}
+    
+    

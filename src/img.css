@@ -1,0 +1,11 @@
+.patients{
+    background-color: rgb(26, 212, 212);
+    overflow: hidden;
+}
+.doctors{
+    background-color: rgb(74, 48, 190);
+    overflow: hidden;
+}
+.container{
+    margin-top: 10%;
+}

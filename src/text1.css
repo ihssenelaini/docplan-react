@@ -1,0 +1,13 @@
+.no-lines{
+    display: flex;
+    flex-direction: column;
+}
+
+.small-text{
+    color: rgb(56, 173, 134);
+    margin-right: 20%;
+}
+.text-container{
+    margin-top: 5%;
+    margin-left: 10%;
+}
